@@ -1,0 +1,7 @@
+n=input("What is your name ?,\n")
+print("My name is Raunak Patel.")
+a=input("How old are you ?,\n")
+print("I am 15 years old.")
+print("You name is",n,"and my name is raunak patel.")
+print("You are",a,"years old and i am 15 years old.")
+print("Thanks for this conservation")
